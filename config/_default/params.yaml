@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: "© {{< year >}} Ansar Lab"
+    notice: "© 2025 Ansar Lab"
   license:
     enable: false
     text: ""
