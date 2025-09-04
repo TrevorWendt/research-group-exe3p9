@@ -43,7 +43,11 @@ header:
 # Site footer
 
 footer:
-  copyright: "© {{< 2025 >}} Ansar Lab"
+  copyright:
+    notice: "© {{< year >}} Ansar Lab"
+  license:
+    enable: false
+    text: ""
 
 # Localization
 
